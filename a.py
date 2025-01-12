@@ -1,0 +1,1 @@
+print("naya aadmi hoon mai")
